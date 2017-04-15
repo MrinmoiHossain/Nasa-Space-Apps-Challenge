@@ -79,6 +79,11 @@ a:focus{
     padding: 15% 0 18% 0;
     text-align: center;
 }
+@media (min-width: 320px) and (max-width: 767px) {
+    .menu-d{
+        text-align: center;
+    }
+}
 /* Navigation */
 #tf-menu {
     margin-bottom: 0;
@@ -118,6 +123,7 @@ a:focus{
 }
 .logo {
     font-family: 'Playball', cursive;
+    font-size: 29px;
 }
 button.btn,
 a.btn {
