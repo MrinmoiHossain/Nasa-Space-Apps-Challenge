@@ -1,0 +1,80 @@
+/*twiter part css */
+
+.tiwter-part{
+    background:url(../../images/tiw-part.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding:100px 0px;
+}
+.tiwter-part i{
+    height:80px;
+    width:80px;
+    background:#fff;
+    border-radius:50%;
+    line-height:80px;
+    font-size:35px;
+    margin-top: 68px;
+}
+.carousel-indicators {
+    bottom:-60px;
+}
+.tiwter-part i:hover{
+    background:#177bbb;
+    color:#fff;
+    transform:rotate(360deg);
+    transition:all linear .4s;
+}
+.tiwter-part h3{
+    font-family:Roboto-regular;
+    font-size:20px;
+    color:#fff;
+    padding-top:45px;
+}
+.tiwter-part p{
+    font-family:Roboto-regular;
+    font-size:14px;
+    color:#177bbb;
+    padding-top:30px;
+}
+/*team part css */
+
+.team-part{
+    padding:100px 0px;
+    background:#f6f6f6;
+}
+.team-part a h3{
+    font-family:Roboto-regular;
+    font-size:24px;
+    color:#000000;
+    padding-bottom:25px;
+}
+.team-part p{
+    font-family:Roboto-regular;
+    font-size:16px;
+    color:#666666;
+    padding-bottom:50px;
+}
+.img-ho{
+    height:178px;
+    width:178px;
+    position:relative;
+    display:inline-block;
+    border-radius:50%;
+    line-height:178px;
+    overflow:hidden ;
+}
+.img-ho img{
+    transition:all linear .5s;
+}
+.team-part a h4 {
+    font-size:16px;
+    font-family:Roboto-regular;
+    color:#000000;
+    padding-top:30px;
+}
+.team-part h6{
+    font-family:Roboto-regular;
+    font-size:13px;
+    color:#666666;
+    padding-top:15px;
+}

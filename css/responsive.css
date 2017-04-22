@@ -1,0 +1,560 @@
+@media(max-width:991px){
+	 /*baner part*/
+	 .banner{
+		 background:url(../images/tab-banner.png);
+		 background-repeat:no-repeat;
+		 background-size:cover;
+		}
+	.banner h2{
+		font-size: 33px;
+		padding-top: 148px;
+		}
+	.banner a{
+		margin-top:70px;
+		display:inline-block;
+		padding-bottom:10px;
+		}
+	/* heeader part */
+	#mynav ul li a {
+		padding: 17px 16px;
+	}
+	/*teames part*/
+	.theames{
+		padding:50px 0px;
+		}
+	.theames h2{
+		padding-bottom:60px;
+		font-size:16px;
+		}
+	.theame-i i{
+		height:85px;
+		width:85px;
+		border:2px solid #030303;
+		border-radius:50%;
+		line-height:85px;
+		}
+	.theame-i h3{
+		padding-top:20px;
+		font-size:20px;
+		font-family:Roboto-regular;
+		color:#000000;
+		}
+	.theame-i p{
+		font-size:12px;
+		line-height:14px;
+		}
+		
+	/*you-work-part*/
+	.you-work{
+		background-position:center center;
+		padding-top:50px;
+		min-height:475px;
+		}
+	.you-work h2{
+		font-size:20px;
+		padding-bottom:18px;
+		}
+	.you-work p{
+		font-size:14px;
+		padding-bottom:30px;
+		}
+	.you-work img{
+		padding-top:30px;
+		}
+	.plagin{
+		  width:500px;
+		  margin:0 auto;
+		  position:relative;
+		  top:30px;
+		  left: 0;
+		  padding-top:10px;
+		  margin-left:30px;
+		}
+		
+	.Carousel li{
+		  width:300px;
+		  height:200px;
+		}
+	.Left{
+		  margin-top: 25px;
+		}
+	.Right{
+		 margin-top: 25px;  
+			}
+				
+	/* tiwter-part */
+	.tiwter-part{
+		background-position:center center;
+		padding:50px 0px;
+		}
+	.carousel-indicators {
+		bottom:-35px;
+		}
+	.tiwter-part i{
+		height:60px;
+		width:60px;
+		line-height:60px;
+		font-size:25px;
+		}
+	.tiwter-part h3 {
+		font-size:16px;
+		padding-top:20px;
+		}
+	.tiwter-part p{
+		font-size:14px;
+		padding-top:15px;
+		}
+	/* team part */
+	
+	.team-part{
+		padding:50px 0px;
+		}
+	.team-part a h3{
+		padding-bottom:15px;
+		}
+	.team-part p{
+		font-size:14px;
+		padding-bottom:40px;
+		}
+	.team-part a h4{
+		padding-top:10px;
+		}
+	.team-part h6{
+		font-size:13px;
+		padding-top:5px;
+		padding-bottom:25px;
+		}
+	/*skills part */
+	.skills-part{
+		padding:50px 0px;
+		background-position:center center;
+		}
+	.comme h3{
+		font-size:22px;
+		padding-bottom:30px;
+		}
+	.com p{
+		font-size:14px;
+		padding-bottom:30px;
+		padding-right:70px;
+		}
+	/*progress bar*/
+	.progress{
+		  border-radius:5px;
+		  overflow:visible;
+		  display:inline-fliex;
+		  width:65%;
+		}
+	/* our-service part */
+	.our-ser{
+		padding-top:50px;
+		padding-bottom:0px;
+		}
+	.our-ser h3{
+		padding-bottom:20px;
+		}
+	.logo-1 i{
+		margin-left:20px;
+		}
+	/* img-efct-part css */
+
+	.img-ecf {
+		background-position:center center;
+		padding-top:100px;
+		}
+	.img-ecf h5{
+		font-size:18px;
+		line-height:24px;
+		padding-bottom:40px;
+		}
+	/* brand-img css part */
+	.perner-com{
+		padding:50px 0px 0px 0px;
+		}
+	.perner-com img{
+		margin-bottom:50px;
+		padding-left:32px;
+		}
+	/* blog part css */
+	.blog-le{
+		padding:50px 0px;
+		}
+	.blog-le h2 a{
+		font-size:20px;
+		}
+	
+	.blogs{
+		margin-top:30px;
+		}
+	.ov-laye{
+		bottom:48%;
+		height:18%;
+		}
+	.ov-laye p{
+		font-size:14px;
+		padding:10px 0px 0px 30px;
+		}
+	.ov-laye i{
+		font-size:14px;
+		padding:20px 5px 0px 0px;
+		}
+	.ov-laye h6{
+		font-size:14px;
+		padding:20px 40px 0px 0px;
+		}
+	.conn-1{
+		padding-top:15px;
+		}
+	.conn-1 h2 a{
+		font-size:16px;
+		}
+	.conn-1 p{
+		font-size:12px;
+		padding-top:10px;
+		}
+	/*map css part */
+	.map iframe{
+		min-height:200px;
+		}
+	/*contacts part*/
+	
+	.contacts{
+		padding:50px 0px;
+		}
+	.conts h2 a{
+		font-size:20px;
+		}
+	.conts p{
+		font-size:14px;
+		padding-top:30px;
+		}
+	.conts ul li{
+		padding:8px 0px;
+		}
+	.conts ul li a{
+		font-size:12px;
+		padding-top:5px;
+		}
+	/**from-css**/
+
+	.fa-fr > input{
+		margin:10px 20px;
+		height:30px;
+		}
+	
+	.fa-fr textarea{
+		margin:10px 20px;
+		height:100px;
+		width:90%;
+		}
+	.fa-fr button{
+		margin:10px 20px;
+		}
+	.paddy{
+		padding-bottom:25px;
+		}
+	/*fotter part end*/
+	.fotter{
+		padding:30px 0px;
+		}
+	.fotter a i{
+		height:50px;
+		width:50px;
+		line-height:50px;
+		font-size:20px;
+		margin-left:15px;
+		}
+	.fotter p{
+		font-size:14px;
+		padding-top:20px;
+		}
+	/* porfolio part */
+	.protfolio{
+		padding:50px 0px;
+		}
+	.bnt{
+		width:20%;
+		}	
+		
+	.protfolio h2 a{
+		font-size:20px;
+		}
+	.btn-primary{
+		margin:20px 0px;
+		font-size:14px;
+	}
+	
+	.item { 
+	  margin:15px 0px !important;
+	  }
+	.over{
+		width:83.5%;
+		}
+	.item:hover .over{
+		height:40%;
+		}
+	.over p{
+		font-size:14px;
+		padding-top:15px;
+		padding-left:40px;
+		}
+	}
+	
+@media(max-width:479px){
+	/*banner part */
+	.banner{
+		background:url(../images/mobile-ban.png);
+		background-repeat:no-repeat;
+		background-size:cover;
+		padding-top:20px;
+		}
+	.banner h2{
+		font-size:18px;
+		padding-top: 50px;
+		}
+	.banner a{
+		margin-top:30px;
+		display:inline-block;
+		padding-bottom:5px;
+		}
+	.logo{
+		padding-top:10px !important;
+		}
+	/* heeader part */
+	#mynav ul li a {
+		padding: 5px 16px;
+		line-height:30px !important;
+		}
+	#mynav ul li a:after{
+		content:"";
+		position:absolute;
+		height:3%;
+		bottom:0;
+		left:0%;
+		right:100%;
+		background:#fff;
+		z-index:1;
+		transition: all linear .5s;
+		}
+	/*teames part*/
+	.theames{
+		padding:35px 0px;
+		}
+	.theames h2{
+		padding-bottom:40px;
+		font-size:14px;
+		}
+	.theame-i i{
+		height:65px;
+		width:65px;
+		line-height:65px;
+		}
+	.theame-i h3{
+		margin:0px;
+		padding-top:10px;
+		font-size:16px;
+		}
+	.theame-i p{
+		padding-bottom:30px;
+		}
+	/*twetiter part*/
+		.tiwter-part h3 {
+			font-size:14px;
+			}
+	/*you-work-part*/
+	.you-work{
+		background-position:center center;
+		padding-top:30px;
+		min-height:250px
+		}
+	.you-work h2{
+		font-size:17px;
+		padding-bottom:15px;
+		}
+	.you-work p{
+		font-size:12px;
+		padding-bottom:20px;
+		}
+	.you-work a{
+		font-size:12px;
+		padding:14px 30px;
+		}
+	.you-work img{
+		padding-top:20px;
+		}
+	.plagin{
+		  margin-left:0px;
+		}
+	/* tiwter-part */
+	.tiwter-part{
+		background-position:center center;
+		padding:30px 0px;
+		}
+	.tiwter-part i{
+		height:50px;
+		width:50px;
+		line-height:50px;
+		font-size:20px;
+		}
+	.tiwter-part h3{
+		font-size:14px;
+		padding-top:15px;
+		}
+	.tiwter-part p{
+		font-size:12px;
+		padding-top:12px;
+		}
+	/*skills part */
+	.skills-part{
+		padding:30px 0px;
+		background-position:center center;
+		}
+		.com p{
+			padding-right:0px;
+			}
+	/*progress bar*/
+	.shah{
+		padding:60px 20px 0px 10px;
+		}
+	/* our-service part */
+	.our-ser{
+		padding-top:50px;
+		padding-bottom:0px;
+		}
+	.our-ser h3{
+		font-size:20px;
+		}
+	.our-ser p{
+		font-size:12px;
+		padding-bottom:25px;
+		}
+	.logo-1 i{
+		margin-left:0px;
+		}
+	/* img-efct-part css */
+
+	.img-ecf {
+		background-position:center center;
+		padding-top:80px;
+		}
+	.img-ecf h5{
+		font-size:12px;
+		line-height:16px;
+		padding-bottom:30px;
+		}
+	/* brand-img css part */
+	.perner-com{
+		padding:40px 0px 0px 0px;
+		}
+	.perner-com img{
+		margin-bottom:40px;
+		padding-left:10px;
+		}
+	/*blogs part*/
+	.blog-le{
+		padding:30px 0px;
+		}
+	.blog-le h2 a{
+		font-size:18px;
+		}
+	
+	.blogs{
+		margin-top:20px;
+		}
+	.ov-laye{
+		bottom:44%;
+		height:17%;
+		}
+	.ov-laye p{
+		font-size:14px;
+		padding:10px 0px 0px 30px;
+		}
+	.ov-laye i{
+		font-size:14px;
+		padding:20px 5px 0px 0px;
+		}
+	.ov-laye h6{
+		font-size:14px;
+		padding:20px 40px 0px 0px;
+		}
+	.conn-1{
+		padding-top:15px;
+		}
+	.conn-1 h2 a{
+		font-size:16px;
+		}
+	.conn-1 p{
+		font-size:12px;
+		padding-top:10px;
+		}
+	/*map css part */
+	.map iframe{
+		min-height:150px;
+		width:100%;
+		position:center center;
+		}
+	/*contacts part*/
+	.contacts{
+		padding:30px 0px;
+		}
+	.conts h2 a{
+		font-size:18px;
+		}
+	
+	.fa-fr textarea{
+		width:90%;
+		}
+	/*fotter part end*/
+	.fotter{
+		padding:20px 0px;
+		}
+	.fotter a i{
+		height:40px;
+		width:40px;
+		line-height:40px;
+		font-size:15px;
+		margin-left:5px;
+		}
+	.fotter p{
+		font-size:12px;
+		padding-top:12px;
+		}
+		
+	/* porfolio part */
+	.protfolio{
+		padding:30px 0px;
+		}
+	.bnt{
+		height:30px;
+		width:40%;
+		line-height:30px;
+		margin-top:20px;
+
+		}
+	.bnt a{
+		font-size:14px;
+		}	
+		
+	.protfolio h2 a{
+		font-size:20px;
+		}
+	.btn-primary{
+		margin:10px 0px;
+		font-size:12px;
+	}
+	
+	.item { 
+	  margin:15px 0px !important;
+	  }
+	.over{
+		width:89.5%;
+		}
+	.item:hover .over{
+		height:30%;
+		}
+	.over p{
+		font-size:14px;
+		padding-top:15px;
+		padding-left:40px;
+		}
+	}
